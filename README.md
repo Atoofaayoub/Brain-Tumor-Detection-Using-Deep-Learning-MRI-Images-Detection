@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection using deep learning model
+# Brain-Tumor-Detection using Deep Learning Model
